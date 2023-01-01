@@ -30,14 +30,4 @@ The interpeter simply does what's intended according to the parser's results, an
 
 The interpeter could be swapped out for a compiler which generates machine-readable code that your computer can later execute, or could be swapped out for a transpiler which generates code for another language.
 
-# Running the Program
 
-Requirements:
- - [Python3](https://www.python.org/downloads/) ^3.8
-
-Run: `$PYTHON3 main.py` where `$PYTHON3` should be replaced with your Python3 binary, often `python` or `python3` will do.
-
-Unit testing:
-
- - `$PYTHON3 -m unittest lexer_test`
- - `$PYTHON3 -m unittest parser_test`
