@@ -1,4 +1,4 @@
-# Python - Simple Math Interpreter
+# Python - Simple  Interpreter
 
 An interpreter, written from scratch in Python, that can evaluate simple math calculations.
 
